@@ -2,4 +2,9 @@ test1
 update
 test2
 update1
+<<<<<<< HEAD
 sua lai
+=======
+thoai update
+thoai update master
+>>>>>>> 30bc900ea3fb8e7cb8f64f1ee16b1ce00693d9db
