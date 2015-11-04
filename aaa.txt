@@ -3,6 +3,4 @@ update
 test2
 update1
 
-thoai update
-thoai update master
-
+cap nhat lai
